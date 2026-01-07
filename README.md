@@ -56,5 +56,4 @@ If you have questions about the architecture or want to discuss DevOps opportuni
 *   **Email:** alensana21@gmail.com
 *   **Portfolio:** alensana.site
 
----
-*© 2026 Denhaningrat Alensana. Licensed under MIT.*
+
